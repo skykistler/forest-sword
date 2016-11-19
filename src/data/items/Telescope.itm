@@ -1,0 +1,6 @@
+type-usable
+texture-item/telescope.png
+icon-item/telescopeicon.png
+drawHand-false
+requiresDraw-false
+usesExtraCode-true

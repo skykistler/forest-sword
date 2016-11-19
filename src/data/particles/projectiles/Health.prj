@@ -1,0 +1,6 @@
+texture-particle/health.png
+speed-10
+height-.3
+lifetime-60
+damage--.7
+collision-destroy

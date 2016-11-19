@@ -1,0 +1,10 @@
+type-usable
+icon-item/thecureicon.png
+texture-item/thecure.png
+requiresMouse-true
+drawHand-false
+target-enemy
+uses-1
+projectile-TheCure
+delay-40
+usesExtraCode-true

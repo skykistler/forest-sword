@@ -1,0 +1,9 @@
+texture-particle/thecure.png
+model-thecure
+speed-1
+height-.4
+lifetime-240
+damage-20
+collision-explode
+gravity-true
+quiver-false

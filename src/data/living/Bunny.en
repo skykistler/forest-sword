@@ -1,0 +1,13 @@
+desc-A little bunny :3
+attitude-friendly
+behave-hop, wander, attack enemy
+targetDistance-4
+punchDamage-3
+knockback-.04
+speed-4
+tex-living/bunny.png
+icon-living/bunnyicon.png
+model-bunny
+health-15
+healthRegen-0
+boundingBox-.35, .35, .3

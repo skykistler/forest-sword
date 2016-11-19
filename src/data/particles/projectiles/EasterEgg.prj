@@ -1,0 +1,10 @@
+texture-particle/easteregg.png
+speed-1
+height-.25
+lifetime-216000
+damage-2
+causesGore-true
+collision-stick
+entityCollision-explode
+quiver-false
+gravity-true

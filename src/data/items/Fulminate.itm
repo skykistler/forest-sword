@@ -1,0 +1,9 @@
+type-weapon
+icon-item/fulminateicon.png
+texture-item/fulminate.png
+requiresMouse-true
+drawHand-false
+target-enemy
+uses-5
+projectile-Fulminate
+delay-40

@@ -1,0 +1,12 @@
+life-1
+rate-7
+speedForward-.05
+speedVerticle-.32
+verticalSpeedQuiver-.05
+lifeOfParticle-40
+lifeQuiver-20
+sizeOfParticle-.1
+rotQuiver-50
+positionQuiver-.4
+particleQuiver-true
+gravityOnParticle-true

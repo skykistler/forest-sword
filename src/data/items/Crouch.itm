@@ -1,0 +1,5 @@
+type-ability
+texture-gui/crouch.png
+drawHand-true
+requiresDraw-false
+usesExtraCode-true

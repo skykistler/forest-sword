@@ -1,0 +1,10 @@
+type-spell
+texture-particle/fireball.png
+requiresMouse-true
+drawHand-true
+handOnUse-gui/cast.png
+target-enemy
+energy--.7
+lightBehavior-2
+useTime-0
+projectile-Fireball

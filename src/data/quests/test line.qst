@@ -1,0 +1,7 @@
+name-Test Quest Line
+desc-This is a quest line meant to test the questing system.
+reward-Strange Artifact, 1000 vitri
+steps:
+-quest testprt1
+-quest testprt2
+-quest testprt3

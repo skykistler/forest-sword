@@ -1,0 +1,11 @@
+desc-How these little buggers come into being isn't entirely certain, but they are thought to be the result of a spell infecting normal apples. None the less be wary when walking under trees with abnormally large apples hanging in them, as they may fall down to ambush you!
+attitude-enemy
+behave-hop, wander, attack friendly, attack neutral
+targetDistance-12
+punchDamage-7
+knockback-.04
+speed-3
+icon-living/agitappleicon.png
+model-agitapple
+health-70
+boundingBox-.7, .75, .7

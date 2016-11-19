@@ -1,0 +1,12 @@
+texture-particle/fulminate.png
+
+part:body-
+texture-0, 0
+size-14, 16, 14
+translate--7, 0, -7
+
+part:fuse-
+texture-28, 0
+parent-body
+size-14, 8, 0
+translate--7, 16, 0

@@ -1,0 +1,9 @@
+type-weapon
+texture-item/sword.png
+icon-item/swordicon.png
+vitri-500
+requiresMouse-true
+drawHand-false
+target-enemy
+targetHealth--20
+swing-25

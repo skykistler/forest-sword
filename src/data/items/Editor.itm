@@ -1,0 +1,8 @@
+type-editor
+texture-item/pick.png
+icon-item/pickicon.png
+requiresDraw-true
+requiresMouseButton-true
+drawHand-false
+swing-15
+usesExtraCode-true

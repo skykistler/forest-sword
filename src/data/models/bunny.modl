@@ -1,0 +1,13 @@
+texture-living/bunny.png
+scale-32
+
+part:body-
+texture-0, 0
+size-12, 12, 12
+translate--6, 0, -6
+
+part:ears-
+texture-24, 0
+parent-body
+size-12, 7, 0
+translate--6, 12, 0

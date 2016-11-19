@@ -1,0 +1,13 @@
+texture-particle/explode.png
+life-1
+rate-2
+speedForward-.2
+speedVerticle-.32
+verticalSpeedQuiver-.05
+lifeOfParticle-40
+lifeQuiver-20
+sizeOfParticle-.1
+rotQuiver-50
+positionQuiver-3
+particleQuiver-true
+gravityOnParticle-true

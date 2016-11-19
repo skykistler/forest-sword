@@ -1,0 +1,13 @@
+desc-An Agit Apple turned into an ally, these will follow you around and attack enemies for you!
+attitude-friendly
+behave-hop, wander, attack enemy, follow player
+targetDistance-12
+punchDamage-7
+knockback-.04
+speed-3
+tex-living/allyapple.png
+icon-living/allyappleicon.png
+model-agitapple
+health-70
+healthRegen-.02
+boundingBox-.7, .75, .7

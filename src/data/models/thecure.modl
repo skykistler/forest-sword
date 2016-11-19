@@ -1,0 +1,6 @@
+texture-particle/thecure.png
+
+part:body-
+texture-0, 0
+size-28, 32, 28
+translate--14, 0, -14

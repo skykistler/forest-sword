@@ -1,0 +1,17 @@
+desc-A cannibalistic reincarnate monster.
+icon-living/zombieicon.png
+tex-living/zombie1.png, living/zombie2.png, living/zombie3.png, living/zombie4.png
+model-human
+soundOnLook-sfx/encounter.ogg
+soundOnLookTimer-300
+soundNearAttack-sfx/zombie1.ogg
+attitude-enemy
+behave-wander, flock, attack neutral, attack friendly
+targetDistance-20
+punchDamage-25
+knockback-.01
+hitDelay-25
+speed-6
+health-30
+healthRegen-0
+boundingBox-.7, 1.9, .5

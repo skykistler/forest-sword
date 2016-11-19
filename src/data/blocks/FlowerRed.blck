@@ -1,0 +1,6 @@
+texture-12,0
+hasAlpha-true
+solid-false
+mapColor-42, 149, 34
+canBePlacedOn-Grass
+detail-xRender, affectedByWind

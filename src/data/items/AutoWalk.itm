@@ -1,0 +1,5 @@
+type-ability
+texture-gui/autowalk.png
+drawHand-true
+requiresDraw-false
+usesExtraCode-true

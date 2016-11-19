@@ -1,0 +1,7 @@
+type-usable
+texture-particle/feather.png
+drawHand-false
+energyEffect--.2
+projectile-Feather
+uses-1
+usesExtraCode-true

@@ -1,0 +1,8 @@
+type-usable
+texture-item/red.png
+requiresMouseButton-false
+requiresDraw-false
+drawHand-false
+selfHealth-75
+uses-3
+effect-HealthPotion

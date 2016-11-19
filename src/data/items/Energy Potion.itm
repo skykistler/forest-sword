@@ -1,0 +1,8 @@
+type-usable
+texture-item/blue.png
+requiresMouseButton-false
+requiresDraw-false
+drawHand-false
+energyEffect-75
+uses-3
+effect-EnergyPotion

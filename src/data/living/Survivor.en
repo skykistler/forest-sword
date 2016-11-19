@@ -1,0 +1,15 @@
+desc-A strong but low health ally.
+attitude-friendly
+tex-living/survivor.png
+icon-living/humanicon.png
+model-human
+behave-wander, attack enemy, follow player
+parasites-zombie:living/survivorzombie.png
+targetDistance-7
+punchDamage-20
+hitDelay-15
+knockback-.04
+speed-10
+health-150
+healthRegen-.01
+boundingBox-.7, 1.9, .5

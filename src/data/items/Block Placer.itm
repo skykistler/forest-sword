@@ -1,0 +1,6 @@
+type-editor
+requiresDraw-true
+requiresMouseButton-true
+drawHand-false
+swing-15
+usesExtraCode-true

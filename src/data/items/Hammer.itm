@@ -1,0 +1,7 @@
+type-editor
+texture-item/hammer.png
+icon-item/hammericon.png
+requiresDraw-true
+requiresMouseButton-true
+drawHand-false
+usesExtraCode-true

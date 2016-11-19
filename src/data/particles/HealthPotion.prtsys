@@ -1,0 +1,13 @@
+texture-particle/spot.png
+color-255, 50, 50
+life-10
+rate-11
+verticalSpeedQuiver-.05
+lifeOfParticle-25
+lifeQuiver-20
+sizeOfParticle-.1
+rotQuiver-0
+positionQuiver-1.5
+particleQuiver-true
+gravityOnParticle-true
+ySpawnOffset-2.3

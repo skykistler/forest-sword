@@ -1,0 +1,6 @@
+texture-particle/bubble.png
+speed-10
+height-.25
+lifetime-60
+damage-.2
+collision-destroy

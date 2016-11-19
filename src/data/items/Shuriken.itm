@@ -1,0 +1,10 @@
+type-weapon
+icon-particle/shuriken.png
+texture-item/shuriken.png
+requiresMouse-true
+drawHand-false
+handOnUse-gui/cast.png
+target-enemy
+uses-25
+projectile-Shuriken
+delay-20

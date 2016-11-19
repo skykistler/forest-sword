@@ -1,0 +1,9 @@
+type-spell
+texture-item/healthblast.png
+requiresMouse-true
+drawHand-true
+handOnUse-gui/cast.png
+target-enemy
+energy--.35
+useTime-1
+projectile-Health

@@ -1,0 +1,8 @@
+type-usable
+texture-item/handtorchoff.png
+icon-item/handtorchon.png
+texOnUse-item/handtorchon.png
+requiresDraw-true
+requiresMouseButton-true
+drawHand-false
+lightBehavior-1

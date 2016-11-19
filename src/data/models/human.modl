@@ -1,0 +1,41 @@
+texture-living/human.png
+
+part:body-
+texture-0, 36
+size-16, 22, 10
+translate--8, 24, -8
+
+part:head-
+texture-0, 0
+parent-body
+size-12, 12, 12
+translate--6, 46, -10
+attachment-0, 35, -3
+
+part:rightArm-
+texture-0, 78
+parent-body
+size-6, 18, 6
+translate-8, 28, -6
+attachment-0, 35, -3
+
+part:leftArm-
+texture-28, 78
+parent-body
+size-6, 18, 6
+translate--14, 28, -6
+attachment-0, 35, -3
+
+part:rightLeg-
+texture-0, 109
+parent-body
+size-6, 24, 6
+translate-2, 0, -6
+attachment-0, 35, -3
+
+part:leftLeg-
+texture-28, 109
+parent-body
+size-6, 24, 6
+translate--8, 0, -6
+attachment-0, 35, -3

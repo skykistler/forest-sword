@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/lwjgl-2.9.3/jar/lwjgl_util.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/forest-sword/lib/lwjgl-docs-2.9.3.zip!/javadoc"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="forest-sword/lib/lwjgl-2.9.3/native"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/lwjgl-2.9.3/jar/lwjgl.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/forest-sword/lib/lwjgl-docs-2.9.3.zip!/javadoc"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="forest-sword/lib/lwjgl-2.9.3/native"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jogg.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

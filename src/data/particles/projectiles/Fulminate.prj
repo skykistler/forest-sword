@@ -1,0 +1,9 @@
+texture-particle/fulminate.png
+model-fulminate
+speed-1
+height-.2
+lifetime-240
+damage-5
+collision-explode
+gravity-true
+quiver-false

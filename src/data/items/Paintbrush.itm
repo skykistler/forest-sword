@@ -1,0 +1,7 @@
+type-editor
+texture-item/paintbrush.png
+icon-item/paintbrushicon.png
+requiresDraw-true
+requiresMouseButton-true
+drawHand-false
+usesExtraCode-true

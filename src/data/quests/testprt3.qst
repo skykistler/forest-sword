@@ -1,0 +1,5 @@
+name-Intro - Walk To Area
+desc-This is the first test quest. Walk into the marked area to complete.
+reward-15 vitri
+steps:
+-travel (40, 40) xoffset1.5 zoffset1.5

@@ -1,0 +1,10 @@
+type-weapon
+icon-particle/easteregg.png
+texture-item/easteregg.png
+requiresMouse-true
+drawHand-false
+handOnUse-gui/cast.png
+target-enemy
+uses-0
+projectile-EasterEgg
+delay-20

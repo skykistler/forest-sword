@@ -1,0 +1,15 @@
+life-1
+rate-5
+speedForward-.07
+verticalSpeedQuiver-.05
+lifeOfParticle-25
+lifeQuiver-20
+sizeOfParticle-.2
+sizeChange--.15
+rotQuiver-10
+positionQuiver-.025
+particleQuiver-true
+gravityOnParticle-true
+xSpawnOffset-.5
+ySpawnOffset-.95
+zSpawnOffset-.5

@@ -1,0 +1,6 @@
+texture-particle/feather.png
+speed-3
+height-.25
+lifetime-30
+damage-0
+collision-destroy

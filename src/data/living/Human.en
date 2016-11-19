@@ -1,0 +1,13 @@
+desc-A fellow humanoid.
+attitude-neutral
+behave-wander, attack enemy
+parasites-zombie
+targetDistance-6
+punchDamage-7
+knockback-.04
+speed-4
+icon-living/humanicon.png
+model-human
+health-100
+healthRegen-.02
+boundingBox-.7, 1.9, .5

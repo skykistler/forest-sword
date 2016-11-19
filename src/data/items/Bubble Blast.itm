@@ -1,0 +1,9 @@
+type-spell
+texture-particle/bubble.png
+requiresMouse-true
+drawHand-true
+handOnUse-gui/cast.png
+target-enemy
+energy--.3
+useTime-0
+projectile-Bubble

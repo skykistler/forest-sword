@@ -1,0 +1,2 @@
+settings.txt
+lbg2.png

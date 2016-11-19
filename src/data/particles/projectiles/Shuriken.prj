@@ -1,0 +1,9 @@
+texture-particle/shuriken.png
+speed-2
+height-.25
+lifetime-1800
+damage-100
+causesGore-true
+collision-stick
+quiver-false
+gravity-true
